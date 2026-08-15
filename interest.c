@@ -3,7 +3,7 @@
 int main(){
 
   float i,p,r,n;
-  printf("interest rate\n");
+  printf("interest rate calculation\n");
   printf("Enter principle value: ");
   scanf("%f",&p);
   printf("Enter rate of interest: ");
